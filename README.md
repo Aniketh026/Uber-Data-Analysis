@@ -6,12 +6,12 @@ This project focuses on analyzing Uber ride booking data from the Delhi NCR regi
 The project includes an interactive Power BI dashboard built on 150,000+ ride records with multiple analytical visualizations and KPIs.
 
 🎯 Objectives
-Analyze booking completion and cancellation trends
-Identify major reasons behind ride cancellations
-Compare performance across different vehicle categories
-Study customer payment preferences and ride patterns
-Discover high-demand locations and peak booking hours
-Generate business insights for operational improvement
+Analyze booking completion and cancellation trends.
+Identify major reasons behind ride cancellations.
+Compare performance across different vehicle categories.
+Study customer payment preferences and ride patterns.
+Discover high-demand locations and peak booking hours.
+Generate business insights for operational improvement.
 
 📊 Key Insights
 Booking status analysis (Completed, Cancelled, Incomplete)
@@ -21,21 +21,6 @@ Customer and driver rating analysis
 Payment method distribution
 Time-based ride demand patterns
 Revenue and ride distance analytics
-
-🛠️ Tools & Technologies
-Power BI
-Microsoft Excel
-Python
-Pandas & NumPy
-ETL Process
-Data Visualization
-
-📂 Dataset Information
-Dataset Size: 150,000 records
-Attributes: 19 columns
-Region: Delhi NCR, India
-Vehicle Types: Auto, Bike, Sedan, Uber XL, eBike, etc.
-Payment Methods: UPI, Cash, Wallet, Credit/Debit Card
 
 📈 Dashboard Features
 Interactive KPI cards
