@@ -12,6 +12,7 @@ Compare performance across different vehicle categories
 Study customer payment preferences and ride patterns
 Discover high-demand locations and peak booking hours
 Generate business insights for operational improvement
+
 📊 Key Insights
 Booking status analysis (Completed, Cancelled, Incomplete)
 Vehicle-wise demand and revenue analysis
@@ -20,6 +21,7 @@ Customer and driver rating analysis
 Payment method distribution
 Time-based ride demand patterns
 Revenue and ride distance analytics
+
 🛠️ Tools & Technologies
 Power BI
 Microsoft Excel
@@ -27,12 +29,14 @@ Python
 Pandas & NumPy
 ETL Process
 Data Visualization
+
 📂 Dataset Information
 Dataset Size: 150,000 records
 Attributes: 19 columns
 Region: Delhi NCR, India
 Vehicle Types: Auto, Bike, Sedan, Uber XL, eBike, etc.
 Payment Methods: UPI, Cash, Wallet, Credit/Debit Card
+
 📈 Dashboard Features
 Interactive KPI cards
 Dynamic filters and slicers
@@ -40,6 +44,7 @@ Trend and comparison charts
 Revenue analysis visuals
 Cancellation reason breakdown
 Vehicle performance insights
+
 🔍 Analysis Performed
 Exploratory Data Analysis (EDA)
 Data Cleaning & Transformation
@@ -47,8 +52,8 @@ Statistical Analysis
 Correlation & Trend Analysis
 Outlier Detection
 Dashboard Visualization
-🚀 Project Outcome
 
+🚀 Project Outcome
 The project demonstrates how Business Intelligence and Data Analytics can be used to improve operational decision-making in the ride-hailing industry through meaningful insights and visual storytelling.
 
 👨‍💻 Author
